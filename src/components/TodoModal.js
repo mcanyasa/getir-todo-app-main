@@ -57,7 +57,7 @@ function TodoModal({ type, modalOpen, setModalOpen, todo }) {
             id: uuid(),
             title,
             status,
-            time: new Date().toLocaleString(),
+            time: new Date().toISOString(),
           })
         );
         toast.success('Task added successfully');
