@@ -1,0 +1,8 @@
+{
+	"short_name": "Getir Todo App",
+	"name": "Todo App - by Mustafa Can Yasa",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
